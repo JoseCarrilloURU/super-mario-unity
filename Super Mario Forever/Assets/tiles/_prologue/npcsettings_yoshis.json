@@ -1,0 +1,21 @@
+{
+	"style" : "groupbox",
+	"title" : "Toad Settings",
+	"layout": [
+		{
+			"control": "combobox",
+			"name": "color",
+			"title": "Color",
+			"elements": ["Red", "Blue", "Yellow", "Green", "Pink", "Purple", "Mom", "FPink", "FRed", "FYellow", "FGreen", "FBlue", "MRed", "Todd"],
+			"value-default": 0
+		},
+		{
+			"control": "checkbox",
+			"name": "random",
+			"title": "Random Color",
+			"tooltip": "Check to make the toad be of a random colour.",
+			"text-visible": true,
+			"value-default": false
+		}
+	]
+}

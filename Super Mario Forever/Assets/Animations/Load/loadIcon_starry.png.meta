@@ -1,0 +1,1930 @@
+fileFormatVersion: 2
+guid: efbc405e28ad1924b8403347a580ce93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1532337785646486284
+    second: loadIcon_starry_0
+  - first:
+      213: -7364238107611469187
+    second: loadIcon_starry_1
+  - first:
+      213: -6637788973331366682
+    second: loadIcon_starry_2
+  - first:
+      213: 2579008525462749367
+    second: loadIcon_starry_3
+  - first:
+      213: -51538609684944003
+    second: loadIcon_starry_4
+  - first:
+      213: -7880586214889596756
+    second: loadIcon_starry_5
+  - first:
+      213: -2352966571494870424
+    second: loadIcon_starry_6
+  - first:
+      213: 1378229833284353295
+    second: loadIcon_starry_7
+  - first:
+      213: 2704247527943069577
+    second: loadIcon_starry_8
+  - first:
+      213: -4445443735651046691
+    second: loadIcon_starry_9
+  - first:
+      213: 3454553736440982597
+    second: loadIcon_starry_10
+  - first:
+      213: -936776688302106489
+    second: loadIcon_starry_11
+  - first:
+      213: 82715880198569752
+    second: loadIcon_starry_12
+  - first:
+      213: -1063182150597860662
+    second: loadIcon_starry_13
+  - first:
+      213: 6593049436922132850
+    second: loadIcon_starry_14
+  - first:
+      213: -6611893449650917748
+    second: loadIcon_starry_15
+  - first:
+      213: -3569915562394519434
+    second: loadIcon_starry_16
+  - first:
+      213: 5151329055576843351
+    second: loadIcon_starry_17
+  - first:
+      213: -3743359989478960538
+    second: loadIcon_starry_18
+  - first:
+      213: 3634154541420760537
+    second: loadIcon_starry_19
+  - first:
+      213: 8453467407981649264
+    second: loadIcon_starry_20
+  - first:
+      213: 3781968093407011649
+    second: loadIcon_starry_21
+  - first:
+      213: -1181905612543449149
+    second: loadIcon_starry_22
+  - first:
+      213: -9130561628989130482
+    second: loadIcon_starry_23
+  - first:
+      213: -2770110261942297698
+    second: loadIcon_starry_24
+  - first:
+      213: -3025800959826649475
+    second: loadIcon_starry_25
+  - first:
+      213: -5044337637055659928
+    second: loadIcon_starry_26
+  - first:
+      213: 3714638274902844750
+    second: loadIcon_starry_27
+  - first:
+      213: 9154939400936001263
+    second: loadIcon_starry_28
+  - first:
+      213: -8158929821153560984
+    second: loadIcon_starry_29
+  - first:
+      213: 9142333174426217749
+    second: loadIcon_starry_30
+  - first:
+      213: 7432261958139773792
+    second: loadIcon_starry_31
+  - first:
+      213: -1001382530076155027
+    second: loadIcon_starry_32
+  - first:
+      213: 6111593126416748331
+    second: loadIcon_starry_33
+  - first:
+      213: -6930475332275743069
+    second: loadIcon_starry_34
+  - first:
+      213: -6377498835653770227
+    second: loadIcon_starry_35
+  - first:
+      213: -4051191273191966783
+    second: loadIcon_starry_36
+  - first:
+      213: 5716729454160786008
+    second: loadIcon_starry_37
+  - first:
+      213: 9145549066830342931
+    second: loadIcon_starry_38
+  - first:
+      213: -7855270537178201392
+    second: loadIcon_starry_39
+  - first:
+      213: 8592796083974125259
+    second: loadIcon_starry_40
+  - first:
+      213: -7825457973823273705
+    second: loadIcon_starry_41
+  - first:
+      213: -7335040225567967508
+    second: loadIcon_starry_42
+  - first:
+      213: 6838267899503204304
+    second: loadIcon_starry_43
+  - first:
+      213: 2323570897136588424
+    second: loadIcon_starry_44
+  - first:
+      213: 2825618211076276240
+    second: loadIcon_starry_45
+  - first:
+      213: -1344856970750844789
+    second: loadIcon_starry_46
+  - first:
+      213: -4078654048596321002
+    second: loadIcon_starry_47
+  - first:
+      213: -7278075540683212889
+    second: loadIcon_starry_48
+  - first:
+      213: -7582874589544229370
+    second: loadIcon_starry_49
+  - first:
+      213: -1312638429244459702
+    second: loadIcon_starry_50
+  - first:
+      213: 880842181622622130
+    second: loadIcon_starry_51
+  - first:
+      213: -2188089971126742398
+    second: loadIcon_starry_52
+  - first:
+      213: -7629899659716234383
+    second: loadIcon_starry_53
+  - first:
+      213: 6812657172855220159
+    second: loadIcon_starry_54
+  - first:
+      213: -4013887394249064032
+    second: loadIcon_starry_55
+  - first:
+      213: -2298862210834408142
+    second: loadIcon_starry_56
+  - first:
+      213: -5968075772239935567
+    second: loadIcon_starry_57
+  - first:
+      213: 3315302615112344391
+    second: loadIcon_starry_58
+  - first:
+      213: -4076994549544593079
+    second: loadIcon_starry_59
+  - first:
+      213: -2129561403015981511
+    second: loadIcon_starry_60
+  - first:
+      213: -8742029508110816720
+    second: loadIcon_starry_61
+  - first:
+      213: 5210081276225141769
+    second: loadIcon_starry_62
+  - first:
+      213: 6428768833874970764
+    second: loadIcon_starry_63
+  - first:
+      213: -8451418860978601998
+    second: loadIcon_starry_64
+  - first:
+      213: -6402048400108577149
+    second: loadIcon_starry_65
+  - first:
+      213: -7838022944377269786
+    second: loadIcon_starry_66
+  - first:
+      213: 1185757858172440800
+    second: loadIcon_starry_67
+  - first:
+      213: 1658110058529054089
+    second: loadIcon_starry_68
+  - first:
+      213: 5010634771172551167
+    second: loadIcon_starry_69
+  - first:
+      213: -3832824506189012570
+    second: loadIcon_starry_70
+  - first:
+      213: 4774040283909811394
+    second: loadIcon_starry_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: loadIcon_starry_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 555
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c031e5de815f34510800000000000000
+      internalID: 1532337785646486284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 563
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a6c626578fcc990800000000000000
+      internalID: -7364238107611469187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 555
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec3496e816d1e3a0800000000000000
+      internalID: -6637788973331366682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 535
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b049e8f69a7ac320800000000000000
+      internalID: 2579008525462749367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 525
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7be28558e5e84ff0800000000000000
+      internalID: -51538609684944003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 535
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca85aa7379882a290800000000000000
+      internalID: -7880586214889596756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 513
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862fda9ae55985fd0800000000000000
+      internalID: -2352966571494870424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 505
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d72cf2bb4702310800000000000000
+      internalID: 1378229833284353295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 513
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f56c78cca678520800000000000000
+      internalID: 2704247527943069577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaa883b97c9e42c0800000000000000
+      internalID: -4445443735651046691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 493
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c201ef15a01ff20800000000000000
+      internalID: 3454553736440982597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788d2e3b096eff2f0800000000000000
+      internalID: -936776688302106489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ff480a7add52100800000000000000
+      internalID: 82715880198569752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 457
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2241e8771de31f0800000000000000
+      internalID: -1063182150597860662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279355a08873f7b50800000000000000
+      internalID: 6593049436922132850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 441
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e23d850f5dd34a0800000000000000
+      internalID: -6611893449650917748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 433
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678f551d5bc157ec0800000000000000
+      internalID: -3569915562394519434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 441
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7546eceab723d7740800000000000000
+      internalID: 5151329055576843351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66252b83ce9ec0cc0800000000000000
+      internalID: -3743359989478960538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 387
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddc1440d4c1f6230800000000000000
+      internalID: 3634154541420760537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 421
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d9615b1dfb05570800000000000000
+      internalID: 8453467407981649264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 411
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143e26771ff3c7430800000000000000
+      internalID: 3781968093407011649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ae4e7b17099fe0800000000000000
+      internalID: -1181905612543449149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 389
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e097a40039ab94180800000000000000
+      internalID: -9130561628989130482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 369
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bd348b4679e89d0800000000000000
+      internalID: -2770110261942297698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 361
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e1f74fe023206d0800000000000000
+      internalID: -3025800959826649475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 369
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8600a2825a9eef9b0800000000000000
+      internalID: -5044337637055659928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4567ac74db0d8330800000000000000
+      internalID: 3714638274902844750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 349
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee840551e0ec0f70800000000000000
+      internalID: 9154939400936001263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866fcc63e88a5ce80800000000000000
+      internalID: -8158929821153560984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da1ff759710ee70800000000000000
+      internalID: 9142333174426217749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 313
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06302948fd2b42760800000000000000
+      internalID: 7432261958139773792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 319
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63678af4ef5a12f0800000000000000
+      internalID: -1001382530076155027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0acf519db0d450800000000000000
+      internalID: 6111593126416748331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6d81f876102df90800000000000000
+      internalID: -6930475332275743069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 295
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04c36139929e77a0800000000000000
+      internalID: -6377498835653770227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 267
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7fa3c400747c7c0800000000000000
+      internalID: -4051191273191966783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 277
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85234486627e55f40800000000000000
+      internalID: 5716729454160786008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 267
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31be35ccb648bee70800000000000000
+      internalID: 9145549066830342931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c6e0c0197cf290800000000000000
+      internalID: -7855270537178201392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 237
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc635a4038ebf3770800000000000000
+      internalID: 8592796083974125259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71504811f63666390800000000000000
+      internalID: -7825457973823273705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6f1dd07c3b43a90800000000000000
+      internalID: -7335040225567967508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 215
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d758d48c6866ee50800000000000000
+      internalID: 6838267899503204304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886134e8b6bfe3020800000000000000
+      internalID: 2323570897136588424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010831ecacc963720800000000000000
+      internalID: 2825618211076276240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 205
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8020b0e5bb165de0800000000000000
+      internalID: -1344856970750844789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d15bf90c5b567c0800000000000000
+      internalID: -4078654048596321002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a73e1d4bd41ffa90800000000000000
+      internalID: -7278075540683212889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 161
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60651e19cb734c690800000000000000
+      internalID: -7582874589544229370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_50
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a457b52ad4298cde0800000000000000
+      internalID: -1312638429244459702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7ebca1c41693c00800000000000000
+      internalID: 880842181622622130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_52
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 145
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2825566a3c752a1e0800000000000000
+      internalID: -2188089971126742398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1737db63fa62d1690800000000000000
+      internalID: -7629899659716234383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb76d8c8a9b6b8e50800000000000000
+      internalID: 6812657172855220159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1cd517eaecb48c0800000000000000
+      internalID: -4013887394249064032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 123
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d55a7cffcc810e0800000000000000
+      internalID: -2298862210834408142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7060394b22d2da0800000000000000
+      internalID: -5968075772239935567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 87
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743e1b8c922520e20800000000000000
+      internalID: 3315302615112344391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949d03bde0b9b67c0800000000000000
+      internalID: -4076994549544593079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93699d5df274272e0800000000000000
+      internalID: -2129561403015981511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 73
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a6219ca721ea680800000000000000
+      internalID: -8742029508110816720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c3058015ded4840800000000000000
+      internalID: 5210081276225141769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88483e7133973950800000000000000
+      internalID: 6428768833874970764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_64
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff755fc25786ba80800000000000000
+      internalID: -8451418860978601998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e9bac46ea5727a0800000000000000
+      internalID: -6402048400108577149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e11803e8afb93390800000000000000
+      internalID: -7838022944377269786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_67
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e01ff55d78a47010800000000000000
+      internalID: 1185757858172440800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_68
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d502d205ac20710800000000000000
+      internalID: 1658110058529054089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e5f2e6c9598540800000000000000
+      internalID: 5010634771172551167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a121363b621fcac0800000000000000
+      internalID: -3832824506189012570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loadIcon_starry_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc69d1285cc04240800000000000000
+      internalID: 4774040283909811394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

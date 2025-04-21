@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 795f7099749abf74ba77e7208ebe93cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4086087475737502049
+    second: flyingShard_0
+  - first:
+      213: 4256871866528975570
+    second: flyingShard_1
+  - first:
+      213: -7628971843358578564
+    second: flyingShard_2
+  - first:
+      213: -7408640449746771721
+    second: flyingShard_3
+  - first:
+      213: -4041568247543352208
+    second: flyingShard_4
+  - first:
+      213: -2042147910758414610
+    second: flyingShard_5
+  - first:
+      213: 315885700946487841
+    second: flyingShard_6
+  - first:
+      213: 5338415074095243177
+    second: flyingShard_7
+  - first:
+      213: -98420768372334557
+    second: flyingShard_8
+  - first:
+      213: -8680589396621410635
+    second: flyingShard_9
+  - first:
+      213: -2505016015180889128
+    second: flyingShard_10
+  - first:
+      213: -6180858688975140681
+    second: flyingShard_11
+  - first:
+      213: 8250599008529623328
+    second: flyingShard_12
+  - first:
+      213: 4768747905007500844
+    second: flyingShard_13
+  - first:
+      213: 5950083290028106940
+    second: flyingShard_14
+  - first:
+      213: 6122621430756991861
+    second: flyingShard_15
+  - first:
+      213: -1778876185811825105
+    second: flyingShard_16
+  - first:
+      213: -8142909122803196630
+    second: flyingShard_17
+  - first:
+      213: 3800949187457135754
+    second: flyingShard_18
+  - first:
+      213: -8550684533417511046
+    second: flyingShard_19
+  - first:
+      213: 5988594017746023109
+    second: flyingShard_20
+  - first:
+      213: 5084718784834559880
+    second: flyingShard_21
+  - first:
+      213: -2634128518080758676
+    second: flyingShard_22
+  - first:
+      213: -5443885868067220271
+    second: flyingShard_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flyingShard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e5e7ff61d4b47c0800000000000000
+      internalID: -4086087475737502049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da40d2a862731b30800000000000000
+      internalID: 4256871866528975570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 757
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78a72b4782702690800000000000000
+      internalID: -7628971843358578564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0e04c73c83f2990800000000000000
+      internalID: -7408640449746771721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 685
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0743ead871779e7c0800000000000000
+      internalID: -4041568247543352208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 649
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee640708b45d8a3e0800000000000000
+      internalID: -2042147910758414610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 613
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a6a821f50426400800000000000000
+      internalID: 315885700946487841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 577
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af990bc93cd51a40800000000000000
+      internalID: 5338415074095243177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 541
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32065a625d652aef0800000000000000
+      internalID: -98420768372334557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 505
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bebb5d7fe9588780800000000000000
+      internalID: -8680589396621410635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 469
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d38a72d4356c3dd0800000000000000
+      internalID: -2505016015180889128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b800cc15cd293aa0800000000000000
+      internalID: -6180858688975140681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029299fa514008270800000000000000
+      internalID: 8250599008529623328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e3c5524fefd2240800000000000000
+      internalID: 4768747905007500844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4ec163a31f29250800000000000000
+      internalID: 5950083290028106940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e67290cbe7f450800000000000000
+      internalID: 6122621430756991861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 253
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ec84da8892057e0800000000000000
+      internalID: -1778876185811825105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 217
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d1709bb439efe80800000000000000
+      internalID: -8142909122803196630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 181
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8431bfc52fafb430800000000000000
+      internalID: 3800949187457135754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77f83768bdd55980800000000000000
+      internalID: -8550684533417511046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 109
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2f7cbb782cb1350800000000000000
+      internalID: 5988594017746023109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 73
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fd1d87bcc809640800000000000000
+      internalID: 5084718784834559880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 37
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cf11ba112b17bd0800000000000000
+      internalID: -2634128518080758676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingShard_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4951c55ae6374b0800000000000000
+      internalID: -5443885868067220271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flyingShard_0: -4086087475737502049
+      flyingShard_1: 4256871866528975570
+      flyingShard_10: -2505016015180889128
+      flyingShard_11: -6180858688975140681
+      flyingShard_12: 8250599008529623328
+      flyingShard_13: 4768747905007500844
+      flyingShard_14: 5950083290028106940
+      flyingShard_15: 6122621430756991861
+      flyingShard_16: -1778876185811825105
+      flyingShard_17: -8142909122803196630
+      flyingShard_18: 3800949187457135754
+      flyingShard_19: -8550684533417511046
+      flyingShard_2: -7628971843358578564
+      flyingShard_20: 5988594017746023109
+      flyingShard_21: 5084718784834559880
+      flyingShard_22: -2634128518080758676
+      flyingShard_23: -5443885868067220271
+      flyingShard_3: -7408640449746771721
+      flyingShard_4: -4041568247543352208
+      flyingShard_5: -2042147910758414610
+      flyingShard_6: 315885700946487841
+      flyingShard_7: 5338415074095243177
+      flyingShard_8: -98420768372334557
+      flyingShard_9: -8680589396621410635
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

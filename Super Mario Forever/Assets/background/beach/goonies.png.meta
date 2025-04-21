@@ -1,0 +1,5330 @@
+fileFormatVersion: 2
+guid: 8aac0c8fc34bfcc4894d119956f3435d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -205427778697839899
+    second: goonies_0
+  - first:
+      213: -2490526571622532550
+    second: goonies_1
+  - first:
+      213: -6953557923194896787
+    second: goonies_2
+  - first:
+      213: -6320537532931661856
+    second: goonies_3
+  - first:
+      213: -8689904169142696781
+    second: goonies_4
+  - first:
+      213: 3237089164249537230
+    second: goonies_5
+  - first:
+      213: 3382262471732247873
+    second: goonies_6
+  - first:
+      213: 5648157475498118620
+    second: goonies_7
+  - first:
+      213: -8686943083122868502
+    second: goonies_8
+  - first:
+      213: -2096014428131540587
+    second: goonies_9
+  - first:
+      213: 8466285958090790002
+    second: goonies_10
+  - first:
+      213: 9044297496095186708
+    second: goonies_11
+  - first:
+      213: -5650028909332552772
+    second: goonies_12
+  - first:
+      213: 1174443004380670692
+    second: goonies_13
+  - first:
+      213: 564765622061082048
+    second: goonies_14
+  - first:
+      213: -2836477970827259301
+    second: goonies_15
+  - first:
+      213: 8654984480794592939
+    second: goonies_16
+  - first:
+      213: -8246233561154556181
+    second: goonies_17
+  - first:
+      213: -6927772510065017697
+    second: goonies_18
+  - first:
+      213: -2052289732786915458
+    second: goonies_19
+  - first:
+      213: -1056990576293867870
+    second: goonies_20
+  - first:
+      213: 5008876282590922928
+    second: goonies_21
+  - first:
+      213: -2686195511158064355
+    second: goonies_22
+  - first:
+      213: 2362560163018064377
+    second: goonies_23
+  - first:
+      213: -8573330637211900497
+    second: goonies_24
+  - first:
+      213: 2558817213269101794
+    second: goonies_25
+  - first:
+      213: -2848047494525835111
+    second: goonies_26
+  - first:
+      213: -4691811355005660574
+    second: goonies_27
+  - first:
+      213: 9010509969116416651
+    second: goonies_28
+  - first:
+      213: 7708987329495780237
+    second: goonies_29
+  - first:
+      213: -2559180153581558451
+    second: goonies_30
+  - first:
+      213: 1050302140066071729
+    second: goonies_31
+  - first:
+      213: -2187290180274816335
+    second: goonies_32
+  - first:
+      213: -4870998243270453106
+    second: goonies_33
+  - first:
+      213: -1998669094564439060
+    second: goonies_34
+  - first:
+      213: 6400608142680475795
+    second: goonies_35
+  - first:
+      213: 1045210486276098599
+    second: goonies_36
+  - first:
+      213: -6560293008527475932
+    second: goonies_37
+  - first:
+      213: 4259417672135066481
+    second: goonies_38
+  - first:
+      213: 5545504280035871053
+    second: goonies_39
+  - first:
+      213: 507478823060790937
+    second: goonies_40
+  - first:
+      213: -3480765476920811512
+    second: goonies_41
+  - first:
+      213: -1743482308925889820
+    second: goonies_42
+  - first:
+      213: 7320252574193095726
+    second: goonies_43
+  - first:
+      213: -8417252129269989274
+    second: goonies_44
+  - first:
+      213: -4152737634484572485
+    second: goonies_45
+  - first:
+      213: 3222862108029266979
+    second: goonies_46
+  - first:
+      213: -3659990080803565597
+    second: goonies_47
+  - first:
+      213: -7504102212792600274
+    second: goonies_48
+  - first:
+      213: -7608729363335543775
+    second: goonies_49
+  - first:
+      213: 1839537837174539019
+    second: goonies_50
+  - first:
+      213: -1891914444592895353
+    second: goonies_51
+  - first:
+      213: -5090783963539446069
+    second: goonies_52
+  - first:
+      213: -4029783452868640064
+    second: goonies_53
+  - first:
+      213: -125042881401217684
+    second: goonies_54
+  - first:
+      213: 1862924566644128285
+    second: goonies_55
+  - first:
+      213: -1687734172093650518
+    second: goonies_56
+  - first:
+      213: 1461079237952793933
+    second: goonies_57
+  - first:
+      213: -5945749155109560014
+    second: goonies_58
+  - first:
+      213: 2380468395776371639
+    second: goonies_59
+  - first:
+      213: -1608399434571587260
+    second: goonies_60
+  - first:
+      213: -8886606965127520839
+    second: goonies_61
+  - first:
+      213: -2289125549592198068
+    second: goonies_62
+  - first:
+      213: -7100823361080759036
+    second: goonies_63
+  - first:
+      213: -3079647375073415661
+    second: goonies_64
+  - first:
+      213: 6625393679520762443
+    second: goonies_65
+  - first:
+      213: 1078502877281624887
+    second: goonies_66
+  - first:
+      213: 4615084076752571260
+    second: goonies_67
+  - first:
+      213: -4896505722418250256
+    second: goonies_68
+  - first:
+      213: 8460654782188374814
+    second: goonies_69
+  - first:
+      213: 8127835990100051980
+    second: goonies_70
+  - first:
+      213: 9176332640156287843
+    second: goonies_71
+  - first:
+      213: 1348272905009293247
+    second: goonies_72
+  - first:
+      213: -9207087336675080407
+    second: goonies_73
+  - first:
+      213: -5390443199970976612
+    second: goonies_74
+  - first:
+      213: 4000070072514931576
+    second: goonies_75
+  - first:
+      213: -1675424947562983654
+    second: goonies_76
+  - first:
+      213: -5190892846746930194
+    second: goonies_77
+  - first:
+      213: 3535544572444476765
+    second: goonies_78
+  - first:
+      213: 2251519685102257034
+    second: goonies_79
+  - first:
+      213: -8906019476707682895
+    second: goonies_80
+  - first:
+      213: 4160039608613356525
+    second: goonies_81
+  - first:
+      213: -3449184833692695626
+    second: goonies_82
+  - first:
+      213: -733207985701948189
+    second: goonies_83
+  - first:
+      213: -8768182200072645580
+    second: goonies_84
+  - first:
+      213: -5675566082581488613
+    second: goonies_85
+  - first:
+      213: -304804646104406196
+    second: goonies_86
+  - first:
+      213: 2714962091763564468
+    second: goonies_87
+  - first:
+      213: -4879787751886802288
+    second: goonies_88
+  - first:
+      213: 2870529094047590773
+    second: goonies_89
+  - first:
+      213: 8887858689538679367
+    second: goonies_90
+  - first:
+      213: -6159180938379641700
+    second: goonies_91
+  - first:
+      213: -1755063796709474641
+    second: goonies_92
+  - first:
+      213: -4089855734726520871
+    second: goonies_93
+  - first:
+      213: 7870243136201185659
+    second: goonies_94
+  - first:
+      213: -4094365701279076730
+    second: goonies_95
+  - first:
+      213: -656974218343465091
+    second: goonies_96
+  - first:
+      213: -6347621713832222766
+    second: goonies_97
+  - first:
+      213: -8435150252594489422
+    second: goonies_98
+  - first:
+      213: 8267297292647438491
+    second: goonies_99
+  - first:
+      213: -4044890106858229700
+    second: goonies_100
+  - first:
+      213: -346990172582555544
+    second: goonies_101
+  - first:
+      213: -4006052872532448673
+    second: goonies_102
+  - first:
+      213: -8486167185498569289
+    second: goonies_103
+  - first:
+      213: 7713486404224635332
+    second: goonies_104
+  - first:
+      213: -5178211794676998632
+    second: goonies_105
+  - first:
+      213: -6953845065740944980
+    second: goonies_106
+  - first:
+      213: -4297190559519737313
+    second: goonies_107
+  - first:
+      213: 2006632358483195919
+    second: goonies_108
+  - first:
+      213: 6075053861286860848
+    second: goonies_109
+  - first:
+      213: -2052486168063401448
+    second: goonies_110
+  - first:
+      213: -1509152669743745216
+    second: goonies_111
+  - first:
+      213: 8936727261154893232
+    second: goonies_112
+  - first:
+      213: -6304713383861192863
+    second: goonies_113
+  - first:
+      213: 5036400706008230811
+    second: goonies_114
+  - first:
+      213: 4377605115684963283
+    second: goonies_115
+  - first:
+      213: 6323772483132143334
+    second: goonies_116
+  - first:
+      213: -6501159041077917952
+    second: goonies_117
+  - first:
+      213: 1428061253821152297
+    second: goonies_118
+  - first:
+      213: -5031191368649904589
+    second: goonies_119
+  - first:
+      213: -8473515820504715824
+    second: goonies_120
+  - first:
+      213: -5563298092160635051
+    second: goonies_121
+  - first:
+      213: 1644533898206916318
+    second: goonies_122
+  - first:
+      213: 922448945557900511
+    second: goonies_123
+  - first:
+      213: 5607758822130485666
+    second: goonies_124
+  - first:
+      213: 8866169902129854934
+    second: goonies_125
+  - first:
+      213: -5521347893747181632
+    second: goonies_126
+  - first:
+      213: -2459972431560895064
+    second: goonies_127
+  - first:
+      213: -4207105374665721194
+    second: goonies_128
+  - first:
+      213: 423350482624025261
+    second: goonies_129
+  - first:
+      213: -1493357804136275072
+    second: goonies_130
+  - first:
+      213: -6281788681399427802
+    second: goonies_131
+  - first:
+      213: 349839364990168961
+    second: goonies_132
+  - first:
+      213: -1251770321100343950
+    second: goonies_133
+  - first:
+      213: -6355505927448523286
+    second: goonies_134
+  - first:
+      213: -1436598376634044659
+    second: goonies_135
+  - first:
+      213: -2537710914525272528
+    second: goonies_136
+  - first:
+      213: 1356111037372507861
+    second: goonies_137
+  - first:
+      213: 1945204775417230348
+    second: goonies_138
+  - first:
+      213: -4240961044389610564
+    second: goonies_139
+  - first:
+      213: -2465458343280813183
+    second: goonies_140
+  - first:
+      213: 2543978068388352432
+    second: goonies_141
+  - first:
+      213: 5283409906808324393
+    second: goonies_142
+  - first:
+      213: 7018386135985919912
+    second: goonies_143
+  - first:
+      213: -569816481118625830
+    second: goonies_144
+  - first:
+      213: 1875895654841109069
+    second: goonies_145
+  - first:
+      213: -1136609827397780853
+    second: goonies_146
+  - first:
+      213: -8098012413268393866
+    second: goonies_147
+  - first:
+      213: -4006046438057815411
+    second: goonies_148
+  - first:
+      213: -7614430226706593262
+    second: goonies_149
+  - first:
+      213: -6238597935243838732
+    second: goonies_150
+  - first:
+      213: -7500272494679645059
+    second: goonies_151
+  - first:
+      213: -8301123673279948050
+    second: goonies_152
+  - first:
+      213: -1273634517280029360
+    second: goonies_153
+  - first:
+      213: -3845759602296585952
+    second: goonies_154
+  - first:
+      213: 741798336765339158
+    second: goonies_155
+  - first:
+      213: -2962021786640377163
+    second: goonies_156
+  - first:
+      213: 8691056052681578910
+    second: goonies_157
+  - first:
+      213: 2601165125667709930
+    second: goonies_158
+  - first:
+      213: -5515568395675241760
+    second: goonies_159
+  - first:
+      213: -8322396897176313292
+    second: goonies_160
+  - first:
+      213: -1117141545113195999
+    second: goonies_161
+  - first:
+      213: -6922866405974393453
+    second: goonies_162
+  - first:
+      213: 2785994609729339202
+    second: goonies_163
+  - first:
+      213: -288528844501741723
+    second: goonies_164
+  - first:
+      213: -9009206617838122186
+    second: goonies_165
+  - first:
+      213: -7827332270858592266
+    second: goonies_166
+  - first:
+      213: -6032726081046010553
+    second: goonies_167
+  - first:
+      213: 9184410082334125862
+    second: goonies_168
+  - first:
+      213: -3691304074801460766
+    second: goonies_169
+  - first:
+      213: -8221943513124308114
+    second: goonies_170
+  - first:
+      213: 4877825125589513053
+    second: goonies_171
+  - first:
+      213: -5517926054573602854
+    second: goonies_172
+  - first:
+      213: -3276573623342343160
+    second: goonies_173
+  - first:
+      213: 299222696215018464
+    second: goonies_174
+  - first:
+      213: -5232295799156361859
+    second: goonies_175
+  - first:
+      213: -1600404727934403830
+    second: goonies_176
+  - first:
+      213: -9024936189151135632
+    second: goonies_177
+  - first:
+      213: 6480537297847993403
+    second: goonies_178
+  - first:
+      213: -5581140820639967864
+    second: goonies_179
+  - first:
+      213: 3445599979521709789
+    second: goonies_180
+  - first:
+      213: 5163491304942728084
+    second: goonies_181
+  - first:
+      213: 8144025215416638414
+    second: goonies_182
+  - first:
+      213: 7309694864479261673
+    second: goonies_183
+  - first:
+      213: 2664081116113863950
+    second: goonies_184
+  - first:
+      213: 2470668115299624516
+    second: goonies_185
+  - first:
+      213: -244785414482679625
+    second: goonies_186
+  - first:
+      213: 8922968113913793826
+    second: goonies_187
+  - first:
+      213: -2333893438302502466
+    second: goonies_188
+  - first:
+      213: -5446045748526722279
+    second: goonies_189
+  - first:
+      213: 7622827650867959558
+    second: goonies_190
+  - first:
+      213: 5258840392408889071
+    second: goonies_191
+  - first:
+      213: 3125687929053566475
+    second: goonies_192
+  - first:
+      213: -8059485486466058676
+    second: goonies_193
+  - first:
+      213: 1213787549948499505
+    second: goonies_194
+  - first:
+      213: -7578555021410926865
+    second: goonies_195
+  - first:
+      213: -2969390817768331930
+    second: goonies_196
+  - first:
+      213: -5166297630491804175
+    second: goonies_197
+  - first:
+      213: 1224094936587927721
+    second: goonies_198
+  - first:
+      213: -225416901724125656
+    second: goonies_199
+  - first:
+      213: -4697817918517709575
+    second: goonies_200
+  - first:
+      213: 8728629636512037427
+    second: goonies_201
+  - first:
+      213: 2732225095772445242
+    second: goonies_202
+  - first:
+      213: 6891233002727771159
+    second: goonies_203
+  - first:
+      213: 3284651964587554480
+    second: goonies_204
+  - first:
+      213: 8935361730617591342
+    second: goonies_205
+  - first:
+      213: -7698473211966751780
+    second: goonies_206
+  - first:
+      213: 1226210751393605683
+    second: goonies_207
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goonies_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3271
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eab7bf068c262df0800000000000000
+      internalID: -205427778697839899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3221
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a74ca474fdf6dd0800000000000000
+      internalID: -2490526571622532550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 3207
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e7dde09efff7f90800000000000000
+      internalID: -6953557923194896787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3191
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef9518f990f848a0800000000000000
+      internalID: -6320537532931661856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3191
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b440120332476780800000000000000
+      internalID: -8689904169142696781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3125
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca1c5da1737cec20800000000000000
+      internalID: 3237089164249537230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3159
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d3cbc4cc530fe20800000000000000
+      internalID: 3382262471732247873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3125
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd488a7c49426e40800000000000000
+      internalID: 5648157475498118620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3143
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeebc629a47c17780800000000000000
+      internalID: -8686943083122868502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3143
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59140279bf579e2e0800000000000000
+      internalID: -2096014428131540587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3111
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27411eaf83a4e7570800000000000000
+      internalID: 8466285958090790002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3095
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f55b967acc38d70800000000000000
+      internalID: 9044297496095186708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3095
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3ab8064a01791b0800000000000000
+      internalID: -5650028909332552772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3093
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea6d05a0b57c4010800000000000000
+      internalID: 1174443004380670692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3061
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5ad4c475376d700800000000000000
+      internalID: 564765622061082048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2997
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52de97505ec2a8d0800000000000000
+      internalID: -2836477970827259301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3031
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6c74a778eac1870800000000000000
+      internalID: 8654984480794592939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2997
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee6a7c344e7f8d80800000000000000
+      internalID: -8246233561154556181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 3015
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cbbd46b9b9bdf90800000000000000
+      internalID: -6927772510065017697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2967
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77fd0d8c5dc483e0800000000000000
+      internalID: -2052289732786915458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2983
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae8119cba0d451f0800000000000000
+      internalID: -1056990576293867870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2951
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b806bbd07a138540800000000000000
+      internalID: 5008876282590922928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2951
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bbc282a67b8bad0800000000000000
+      internalID: -2686195511158064355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2935
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f14e2d63ff79c020800000000000000
+      internalID: 2362560163018064377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_24
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2919
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5e20b7539650980800000000000000
+      internalID: -8573330637211900497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_25
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2887
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec4f02c2beb28320800000000000000
+      internalID: 2558817213269101794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2855
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998a851b4e3b978d0800000000000000
+      internalID: -2848047494525835111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2809
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2625ebf4e6653eeb0800000000000000
+      internalID: -4691811355005660574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2791
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8acc42c313cb0d70800000000000000
+      internalID: 9010509969116416651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2783
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4598d123dbfa60800000000000000
+      internalID: 7708987329495780237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2783
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45aa8d9537fb7cd0800000000000000
+      internalID: -2559180153581558451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2751
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4887d4b3c639e00800000000000000
+      internalID: 1050302140066071729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2713
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf4087b2f25a1e0800000000000000
+      internalID: -2187290180274816335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2727
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e881058c7ecb66cb0800000000000000
+      internalID: -4870998243270453106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2713
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb5fe24c0d4344e0800000000000000
+      internalID: -1998669094564439060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2727
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39841f2a13783d850800000000000000
+      internalID: 6400608142680475795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2695
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a00064665518e00800000000000000
+      internalID: 1045210486276098599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2687
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bbd34444825f4a0800000000000000
+      internalID: -6560293008527475932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2687
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173c1a13ecd7c1b30800000000000000
+      internalID: 4259417672135066481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_39
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2681
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4942f7e2c695fc40800000000000000
+      internalID: 5545504280035871053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2649
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e52930d4dea0700800000000000000
+      internalID: 507478823060790937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2623
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80021b99d36d1bfc0800000000000000
+      internalID: -3480765476920811512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2599
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e26b40d318edc7e0800000000000000
+      internalID: -1743482308925889820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_43
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2585
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e241bee8ee2c69560800000000000000
+      internalID: 7320252574193095726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2585
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66046f1f8c9ef2b80800000000000000
+      internalID: -8417252129269989274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_45
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2559
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbea623af138e56c0800000000000000
+      internalID: -4152737634484572485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2567
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ca6250308e9bc20800000000000000
+      internalID: 3222862108029266979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_47
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2535
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef0048b96a153dc0800000000000000
+      internalID: -3659990080803565597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_48
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2535
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e293640cbc21cd790800000000000000
+      internalID: -7504102212792600274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_49
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2527
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1240d42f4fc586690800000000000000
+      internalID: -7608729363335543775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2503
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03cda7aae9578910800000000000000
+      internalID: 1839537837174539019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_51
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2471
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a2c9026d19eb5e0800000000000000
+      internalID: -1891914444592895353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2443
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6e9f015f6e959b0800000000000000
+      internalID: -5090783963539446069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2367
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28402ec455318c0800000000000000
+      internalID: -4029783452868640064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_54
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2387
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d93607922c34ef0800000000000000
+      internalID: -125042881401217684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2367
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1afb2ee5007ad910800000000000000
+      internalID: 1862924566644128285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2379
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9e11566b6f398e0800000000000000
+      internalID: -1687734172093650518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2335
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4defd663dbc64410800000000000000
+      internalID: 1461079237952793933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_58
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2315
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231ad1635a47c7da0800000000000000
+      internalID: -5945749155109560014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_59
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2315
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb6b49c46f190120800000000000000
+      internalID: 2380468395776371639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_60
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2283
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441eb656c31dda9e0800000000000000
+      internalID: -1608399434571587260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2291
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bddf096c0e6ca480800000000000000
+      internalID: -8886606965127520839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_62
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2271
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c444942e0746b30e0800000000000000
+      internalID: -2289125549592198068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2291
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d6cfd56cec47d90800000000000000
+      internalID: -7100823361080759036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_64
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2271
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee84f6705e245d0800000000000000
+      internalID: -3079647375073415661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2259
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a04fcd27022fb50800000000000000
+      internalID: 6625393679520762443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_66
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2227
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733ab9917ac97fe00800000000000000
+      internalID: 1078502877281624887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_67
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2207
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b066b14821c0040800000000000000
+      internalID: 4615084076752571260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_68
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2187
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdb79efcfd1c0cb0800000000000000
+      internalID: -4896505722418250256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2163
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b4c8ba2b84a6570800000000000000
+      internalID: 8460654782188374814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2163
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c088c8615cfdbc070800000000000000
+      internalID: 8127835990100051980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2143
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363865dfae1e85f70800000000000000
+      internalID: 9176332640156287843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_72
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2155
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ec5b401706b210800000000000000
+      internalID: 1348272905009293247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_73
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2123
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9270c7939dad93080800000000000000
+      internalID: -9207087336675080407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_74
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2123
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c5fcb287c4135b0800000000000000
+      internalID: -5390443199970976612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_75
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2111
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b6ce4a98a138730800000000000000
+      internalID: 4000070072514931576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_76
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2091
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f4ea013e1bfb8e0800000000000000
+      internalID: -1675424947562983654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_77
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2059
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3788a557e36f7b0800000000000000
+      internalID: -5190892846746930194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_78
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2037
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d550d187e07c01130800000000000000
+      internalID: 3535544572444476765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_79
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1955
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83c15b79310f3f10800000000000000
+      internalID: 2251519685102257034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1969
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d028d876776480800000000000000
+      internalID: -8906019476707682895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_81
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1955
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de344f2bbfd6bb930800000000000000
+      internalID: 4160039608613356525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1973
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305171ba80220d0800000000000000
+      internalID: -3449184833692695626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_83
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1923
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e471c1c83f13d5f0800000000000000
+      internalID: -733207985701948189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_84
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1909
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43454ceaeb8215680800000000000000
+      internalID: -8768182200072645580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_85
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1909
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9974e7b65c31b0800000000000000
+      internalID: -5675566082581488613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_86
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1877
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ee0f0acd15cbf0800000000000000
+      internalID: -304804646104406196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_87
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1873
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bff73253ab7da520800000000000000
+      internalID: 2714962091763564468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_88
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1859
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0923c75d4e2874cb0800000000000000
+      internalID: -4879787751886802288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_89
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1873
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796128900b26d720800000000000000
+      internalID: 2870529094047590773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_90
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1859
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74262d36364085b70800000000000000
+      internalID: 8887858689538679367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_91
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1841
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c368cb191368aa0800000000000000
+      internalID: -6159180938379641700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_92
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1809
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faebbfe86c2c4a7e0800000000000000
+      internalID: -1755063796709474641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_93
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1795
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df0805d0e9ed37c0800000000000000
+      internalID: -4089855734726520871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1781
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795a3d1f68b83d60800000000000000
+      internalID: 7870243136201185659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1745
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ea7ba6614ed27c0800000000000000
+      internalID: -4094365701279076730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1745
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f3c01ed65f1e6f0800000000000000
+      internalID: -656974218343465091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_97
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1731
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df5972bea7b8e7a0800000000000000
+      internalID: -6347621713832222766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_98
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1749
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b71f0f598350fa80800000000000000
+      internalID: -8435150252594489422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_99
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1717
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b989ccce5175bb270800000000000000
+      internalID: 8267297292647438491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_100
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1717
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c303939e0e9add7c0800000000000000
+      internalID: -4044890106858229700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_101
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1699
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8605aa6c64e3f2bf0800000000000000
+      internalID: -346990172582555544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_102
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1685
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a254d2324a768c0800000000000000
+      internalID: -4006052872532448673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_103
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1653
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b508cb08e31b3a80800000000000000
+      internalID: -8486167185498569289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_104
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1625
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c15d9f440fcb0b60800000000000000
+      internalID: 7713486404224635332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_105
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1541
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e1a8edecb4328b0800000000000000
+      internalID: -5178211794676998632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_106
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1553
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9786971cafe7f90800000000000000
+      internalID: -6953845065740944980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_107
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1541
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1af9af14ff4d54c0800000000000000
+      internalID: -4297190559519737313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_108
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1561
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08f13a9f7df8db10800000000000000
+      internalID: 2006632358483195919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_109
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1509
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0385e51cc4dee4450800000000000000
+      internalID: 6075053861286860848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_110
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1497
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812ad2664ba1483e0800000000000000
+      internalID: -2052486168063401448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_111
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1497
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047771884a96e0be0800000000000000
+      internalID: -1509152669743745216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_112
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1465
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bddfaf5812a50c70800000000000000
+      internalID: 8936727261154893232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_113
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1457
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1677d48c4982188a0800000000000000
+      internalID: -6304713383861192863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_114
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1445
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ba52412c3e4e540800000000000000
+      internalID: 5036400706008230811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_115
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1457
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c55fb8a060cc30800000000000000
+      internalID: 4377605115684963283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_116
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1445
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e63b71919d82c750800000000000000
+      internalID: 6323772483132143334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_117
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1425
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0074b38fb4e37c5a0800000000000000
+      internalID: -6501159041077917952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_118
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1393
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c3287e42e71d310800000000000000
+      internalID: 1428061253821152297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_119
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1381
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e6c9a4b1e9d2ab0800000000000000
+      internalID: -5031191368649904589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_120
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1369
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dde9208146086a80800000000000000
+      internalID: -8473515820504715824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_121
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1329
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f282d5cd13bc2b0800000000000000
+      internalID: -5563298092160635051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_122
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1329
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede26b70ede82d610800000000000000
+      internalID: 1644533898206916318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_123
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1317
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc896bbd623dcc00800000000000000
+      internalID: 922448945557900511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_124
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1337
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9862300f2c2dd40800000000000000
+      internalID: 5607758822130485666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_125
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1305
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b5be0d86fa0b70800000000000000
+      internalID: 8866169902129854934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_126
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1305
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c719df085b3063b0800000000000000
+      internalID: -5521347893747181632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_127
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1285
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a51f836b1c6cddd0800000000000000
+      internalID: -2459972431560895064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_128
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1273
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ab962b3fb5d95c0800000000000000
+      internalID: -4207105374665721194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_129
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1241
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da29b4c550b00e500800000000000000
+      internalID: 423350482624025261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_130
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1215
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08366e14df6864be0800000000000000
+      internalID: -1493357804136275072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_131
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1155
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d1e130a7a92d8a0800000000000000
+      internalID: -6281788681399427802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_132
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1151
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fefa68c01ead400800000000000000
+      internalID: 349839364990168961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_133
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1127
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275ff6e6681d0aee0800000000000000
+      internalID: -1251770321100343950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_134
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1127
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed8a8a2805bcc7a0800000000000000
+      internalID: -6355505927448523286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_135
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1095
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f23db436d201ce0800000000000000
+      internalID: -1436598376634044659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_136
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1087
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036e61d5e5d38ccd0800000000000000
+      internalID: -2537710914525272528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_137
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1087
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d62392bdcfd1d210800000000000000
+      internalID: 1356111037372507861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_138
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1055
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c043326ef61cefa10800000000000000
+      internalID: 1945204775417230348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_139
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1059
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb33e256641525c0800000000000000
+      internalID: -4240961044389610564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1059
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b593803bee8cdd0800000000000000
+      internalID: -2465458343280813183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_141
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1031
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b11caa13960e4320800000000000000
+      internalID: 2543978068388352432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_142
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1031
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921071a4151725940800000000000000
+      internalID: 5283409906808324393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_143
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1027
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a797f37101566160800000000000000
+      internalID: 7018386135985919912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_144
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 995
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfd2cfedea9718f0800000000000000
+      internalID: -569816481118625830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_145
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 959
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ac08eb825880a10800000000000000
+      internalID: 1875895654841109069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_146
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 967
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8abcbd4263f930f0800000000000000
+      internalID: -1136609827397780853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_147
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 931
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6700f608d941e9f80800000000000000
+      internalID: -8098012413268393866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_148
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 931
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8258d15df9a768c0800000000000000
+      internalID: -4006046438057815411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_149
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 927
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a08224d0c145690800000000000000
+      internalID: -7614430226706593262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_150
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 895
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa3e4d3b3c0c69a0800000000000000
+      internalID: -6238597935243838732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_151
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 903
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74acfb77eda9e790800000000000000
+      internalID: -7500272494679645059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_152
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 895
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea1099100c7ccc80800000000000000
+      internalID: -8301123673279948050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_153
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 871
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05509df8724235ee0800000000000000
+      internalID: -1273634517280029360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_154
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 863
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0218095740e11aac0800000000000000
+      internalID: -3845759602296585952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_155
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 831
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616afd538a56b4a00800000000000000
+      internalID: 741798336765339158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_156
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 803
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba1556e0e8c4e6d0800000000000000
+      internalID: -2962021786640377163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_157
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 753
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e991817ce65dc9870800000000000000
+      internalID: 8691056052681578910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_158
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 739
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3ee8576e1391420800000000000000
+      internalID: 2601165125667709930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_159
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 711
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2f76154c3c473b0800000000000000
+      internalID: -5515568395675241760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_160
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 711
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4322effad18e08c80800000000000000
+      internalID: -8322396897176313292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_161
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 679
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a62bffead1f70f0800000000000000
+      internalID: -1117141545113195999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_162
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 675
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d3964cea90def90800000000000000
+      internalID: -6922866405974393453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_163
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 675
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ff1133657d9a620800000000000000
+      internalID: 2785994609729339202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_164
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 643
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f050c6b80fefbf0800000000000000
+      internalID: -288528844501741723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_165
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 657
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b09ab505ed8f280800000000000000
+      internalID: -9009206617838122186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_166
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 657
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff958845cabf5390800000000000000
+      internalID: -7827332270858592266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_167
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 615
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745a4009793774ca0800000000000000
+      internalID: -6032726081046010553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_168
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 615
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62faa0d0f44957f70800000000000000
+      internalID: 9184410082334125862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_169
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 625
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9c187508ad5ccc0800000000000000
+      internalID: -3691304074801460766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_170
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 593
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bf5e0cfe9c5ed80800000000000000
+      internalID: -8221943513124308114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_171
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 547
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53fc3f9b1481b340800000000000000
+      internalID: 4877825125589513053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_172
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 551
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad784441d736c63b0800000000000000
+      internalID: -5517926054573602854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_173
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 529
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd34c46a54782d0800000000000000
+      internalID: -3276573623342343160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_174
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 529
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb71a4f47d072400800000000000000
+      internalID: 299222696215018464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_175
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 515
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75348b41b62367b0800000000000000
+      internalID: -5232295799156361859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_176
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 483
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b3d9611683ac9e0800000000000000
+      internalID: -1600404727934403830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_177
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 487
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07834152a5cf0c280800000000000000
+      internalID: -9024936189151135632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_178
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 483
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3446e7465e7fe950800000000000000
+      internalID: 6480537297847993403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_179
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 455
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88592586efdcb82b0800000000000000
+      internalID: -5581140820639967864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_180
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 451
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd61c710dea31df20800000000000000
+      internalID: 3445599979521709789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_181
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 419
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493fde70cf768a740800000000000000
+      internalID: 5163491304942728084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_182
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 391
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb9bb6d8c3650170800000000000000
+      internalID: 8144025215416638414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_183
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 339
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e398c530c0417560800000000000000
+      internalID: 7309694864479261673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_184
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 327
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e050bc209a7b8f420800000000000000
+      internalID: 2664081116113863950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_185
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 299
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446615a8f83994220800000000000000
+      internalID: 2470668115299624516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_186
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 299
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8209366f85a9cf0800000000000000
+      internalID: -244785414482679625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_187
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 243
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d08f34930c4db70800000000000000
+      internalID: 8922968113913793826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_188
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 267
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb14d5a88485c9fd0800000000000000
+      internalID: -2333893438302502466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_189
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 263
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913d9800f32cb64b0800000000000000
+      internalID: -5446045748526722279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_190
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 243
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607920a6c59b9c960800000000000000
+      internalID: 7622827650867959558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_191
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 263
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6f10079772bf840800000000000000
+      internalID: 5258840392408889071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_192
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 231
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d6f16c9ca06b20800000000000000
+      internalID: 3125687929053566475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_193
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 211
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4636caa6a4f62090800000000000000
+      internalID: -8059485486466058676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_194
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 203
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136d873885d38d010800000000000000
+      internalID: 1213787549948499505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_195
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 179
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee7c066c5093d690800000000000000
+      internalID: -7578555021410926865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_196
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 203
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665ac93a8ca9ac6d0800000000000000
+      internalID: -2969390817768331930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_197
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 135
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdf7926daf9d48b0800000000000000
+      internalID: -5166297630491804175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_198
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 115
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a08daafbdbdcf010800000000000000
+      internalID: 1224094936587927721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_199
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 139
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8264d5ea5882fdcf0800000000000000
+      internalID: -225416901724125656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_200
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 115
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f479434e7ffdceb0800000000000000
+      internalID: -4697817918517709575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_201
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 103
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3f3c7862522970800000000000000
+      internalID: 8728629636512037427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_202
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 71
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a9ce7af30dae520800000000000000
+      internalID: 2732225095772445242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_203
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 75
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c890897e392af50800000000000000
+      internalID: 6891233002727771159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_204
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 71
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6b7081f8d659d20800000000000000
+      internalID: 3284651964587554480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_205
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 43
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26c4150728c00c70800000000000000
+      internalID: 8935361730617591342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_206
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 39
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb7cd7e667892590800000000000000
+      internalID: -7698473211966751780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goonies_207
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 7
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338a4908e20640110800000000000000
+      internalID: 1226210751393605683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

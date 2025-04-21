@@ -1,0 +1,126 @@
+{
+	"style" : "groupbox",
+	"title" : "Talking Flower Settings",
+	"layout": [
+		{
+			"control": "multiLineEdit",
+			"name": "text",
+			"title": "Dialogue",
+			"tooltip": "The text that appears when it speaks.",
+			"value-default": ""
+		},
+		{
+			"control": "spinBox",
+			"name": "message",
+			"title": "Voiceline",
+			"tooltip": "The voiceline that plays when it speaks. Check voicelist.txt for the corresponding voicelines. If set to 0, no sound will play.",
+			"type": "int",
+			"value-default": 0,
+			"value-min": 0,
+			"value-max": 1000
+		},
+		{
+			"control": "soundFile",
+			"name": "messageCustom",
+			"title": "Custom Voiceline",
+			"tooltip": "The sound that plays when it speaks.",
+			"value-default": ""
+		},
+		{
+			"control": "checkBox",
+			"name": "useCustom",
+			"title": "Use Custom Voiceline",
+			"tooltip": "If checked, the Talking Flower will use the custom voiceline instead.",
+			"value-default": false
+		},
+		{
+			"control": "multiLineEdit",
+			"name": "text2",
+			"title": "Second Dialogue",
+			"tooltip": "The text that appears when it speaks.",
+			"value-default": ""
+		},
+		{
+			"control": "spinBox",
+			"name": "message2",
+			"title": "Second Voiceline",
+			"tooltip": "The second voiceline that plays after the first. Check voicelist.txt for the corresponding voicelines. If set to 0, no sound will play.",
+			"type": "int",
+			"value-default": 0,
+			"value-min": 0,
+			"value-max": 1000
+		},
+		{
+			"control": "soundFile",
+			"name": "messageCustom2",
+			"title": "Custom Second Voiceline",
+			"tooltip": "The second sound that plays after the first.",
+			"value-default": ""
+		},
+		{
+			"control": "checkBox",
+			"name": "useCustom2",
+			"title": "Use Custom Second Voiceline",
+			"tooltip": "If checked, the Talking Flower will use the second custom voiceline instead.",
+			"value-default": false
+		},
+		{
+			"control": "checkBox",
+			"name": "has2nd",
+			"title": "Use Second Dialogue",
+			"tooltip": "If checked, the Talking Flower will talk again after the first time with different dialogue.",
+			"value-default": false
+		},
+		{
+			"control": "spinBox",
+			"name": "radius",
+			"title": "Radius",
+			"tooltip": "The radius of how close you can get without it talking. Note that it is automatically doubled, so putting in 16 will actually be 32 in-game.",
+			"type": "int",
+			"value-default": 64,
+			"value-min": 1,
+			"value-max": 1000
+		},
+		{
+			"control": "spinBox",
+			"name": "msgduration",
+			"title": "Dialogue Duration",
+			"tooltip": "How long it takes in frames for the Talking Flower to stop talking. Note that this does not automatically adjust to the current voiceline.",
+			"type": "int",
+			"value-default": 150,
+			"value-min": 2,
+			"value-max": 1000
+		},
+		{
+			"control": "spinBox",
+			"name": "cooldown",
+			"title": "Dialogue Cooldown",
+			"tooltip": "How many frames it takes before the Talking Flower can talk.",
+			"type": "int",
+			"value-default": 100,
+			"value-min": 1,
+			"value-max": 1000
+		},
+		{
+			"control": "checkBox",
+			"name": "alwaysTalk",
+			"title": "Always Talk",
+			"tooltip": "If checked, the Talking Flower will always talk.",
+			"value-default": false
+		},
+		{
+			"control": "lineEdit",
+			"name": "eventName",
+			"title": "Event",
+			"tooltip": "The event that the Talking Flower talks on.",
+			"value-default": ""
+		},
+		{
+			"control": "checkBox",
+			"name": "eventMsg",
+			"title": "Play Dialogue on Event",
+			"tooltip": "If checked, the Talking Flower will only talk on an event.",
+			"value-default": false
+		}
+	]
+}

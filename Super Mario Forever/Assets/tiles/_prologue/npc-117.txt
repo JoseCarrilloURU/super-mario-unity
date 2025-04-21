@@ -1,0 +1,9 @@
+gfxoffsety=0
+gfxwidth=48
+gfxheight=64
+width=36
+height=48
+frames=2
+framespeed=24
+framestyle=0
+

@@ -1,0 +1,9 @@
+frames=2
+framespeed=8
+
+lightcolor=orange
+lightbrightness=1.5
+lightradius=128
+lightoffsetx=0
+lightoffsety=-16
+lightflicker=true
